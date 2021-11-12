@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Raleway";
+    src: url('fonts/static/Raleway-Light.ttf');
+}
+@font-face {
+    font-family: "Mifuente";
+    src: url('fonts/Shalimar-Regular.ttf');
+}
+
+h1, h2, h3{
+    font-family: "Mifuente";
+    font-size: 45px;
+}
+
+p, button{
+    font-family: "Raleway";
+}
